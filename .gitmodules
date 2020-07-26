@@ -1,0 +1,3 @@
+[submodule "tools/rkdeveloptool"]
+	path = tools/rkdeveloptool
+	url = https://github.com/drmckay/rkdeveloptool.git
